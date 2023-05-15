@@ -17,6 +17,7 @@ C:\Users\lucas\Desktop\BackEnd\src\main\java\com\portfolio\ldc\Entity\Persona.ja
 C:\Users\lucas\Desktop\BackEnd\src\main\java\com\portfolio\ldc\Controller\CHys.java
 C:\Users\lucas\Desktop\BackEnd\src\main\java\com\portfolio\ldc\Security\Service\RolService.java
 C:\Users\lucas\Desktop\BackEnd\src\main\java\com\portfolio\ldc\Entity\Educacion.java
+C:\Users\lucas\Desktop\BackEnd\src\main\java\com\portfolio\ldc\LDCApplication.java
 C:\Users\lucas\Desktop\BackEnd\src\main\java\com\portfolio\ldc\Security\jwt\JwtEntryPoint.java
 C:\Users\lucas\Desktop\BackEnd\src\main\java\com\portfolio\ldc\Dto\dtoEducacion.java
 C:\Users\lucas\Desktop\BackEnd\src\main\java\com\portfolio\ldc\Dto\dtoExperiencia.java
@@ -37,4 +38,3 @@ C:\Users\lucas\Desktop\BackEnd\src\main\java\com\portfolio\ldc\Service\Seducacio
 C:\Users\lucas\Desktop\BackEnd\src\main\java\com\portfolio\ldc\Repository\IPersonaRepository.java
 C:\Users\lucas\Desktop\BackEnd\src\main\java\com\portfolio\ldc\Dto\dtoHys.java
 C:\Users\lucas\Desktop\BackEnd\src\main\java\com\portfolio\ldc\Security\Dto\JwtDto.java
-C:\Users\lucas\Desktop\BackEnd\src\main\java\com\portfolio\lcd\MgbApplication.java

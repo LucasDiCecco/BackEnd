@@ -9,6 +9,7 @@ com\portfolio\ldc\Entity\Educacion.class
 com\portfolio\ldc\Service\Seducacion.class
 com\portfolio\ldc\Controller\CExperiencia.class
 com\portfolio\ldc\Security\Entity\UsuarioPrincipal.class
+com\portfolio\ldc\LDCApplication.class
 com\portfolio\ldc\Security\Dto\NuevoUsuario.class
 com\portfolio\ldc\Security\Service\RolService.class
 com\portfolio\ldc\Interface\IPersonaService.class
@@ -33,7 +34,6 @@ com\portfolio\ldc\Repository\Rhys.class
 com\portfolio\ldc\Security\jwt\JwtTokenFilter.class
 com\portfolio\ldc\Service\SExperiencia.class
 com\portfolio\ldc\Security\Enums\RolNombre.class
-com\portfolio\lcd\MgbApplication.class
 com\portfolio\ldc\Controller\PersonaController.class
 com\portfolio\ldc\Entity\Persona.class
 com\portfolio\ldc\Security\jwt\JwtEntryPoint.class
